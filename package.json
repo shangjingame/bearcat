@@ -29,7 +29,7 @@
   "dependencies": {
     "pomelo-logger": "https://github.com/shangjingame/pomelo-logger.git#v0.1.8",
     "commander": "2.x",
-    "chokidar": "~1.0.1"
+    "chokidar": "~4.0.3"
   },
   "browser": {
     "pomelo-logger": "./shim/logger.js",
